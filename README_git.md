@@ -1,6 +1,8 @@
-<h4>🧠 SentioVision – Human-Like Visual Perception System
+🧠 SentioVision – Human-Like Visual Perception System
+
 📌 Overview
 SentioVision is a real-time computer vision system designed to help machines perceive their surroundings in a human-like way.
+
 Instead of only detecting objects, SentioVision:
 •	understands what objects are
 •	tracks who is the same object over time
@@ -10,7 +12,9 @@ Instead of only detecting objects, SentioVision:
 •	produces explainable textual descriptions
 •	stores a final perception snapshot
 The goal is perception, not just detection.
+
 🎯 Project Goals
+
 •	Real-time object detection using a camera
 •	Persistent object tracking with unique IDs
 •	Attribute extraction:
@@ -23,7 +27,9 @@ o	direction
 •	Unknown object handling
 •	Human-readable narration
 •	Final snapshot logging (only last state)
+
 🏗️ Project Architecture
+
 Camera
   ↓
 Detection (YOLO)
@@ -39,6 +45,7 @@ Context & Narration
 Final Snapshot (Log)
 
 Folder structure
+
 SentioVision/
 │
 ├── main.py                   # System controller
