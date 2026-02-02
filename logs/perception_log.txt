@@ -1,0 +1,119 @@
+
+
+
+===== FINAL PERCEPTION @ 2026-02-01 12:13:47 =====
+ID          : 1
+Object      : person
+Motion      : stationary
+Confidence  : 0.91
+Color       : blue
+Description : large blue person near, stationary for 11.48s
+----------------------------------------
+ID          : 19
+Object      : person
+Motion      : stationary
+Confidence  : 0.82
+Color       : green
+Description : medium green person far, stationary for 1.49s
+----------------------------------------
+ID          : 2
+Object      : bird
+Motion      : stationary
+Confidence  : 0.29
+Color       : blue
+Description : medium blue bird far, stationary for 8.72s
+----------------------------------------
+ID          : 2
+Object      : unknown
+Motion      : moving
+Confidence  : N/A
+Color       : unknown
+Description : unknown object moving
+----------------------------------------
+ID          : 1
+Object      : unknown
+Motion      : moving
+Confidence  : N/A
+Color       : unknown
+Description : unknown object moving
+----------------------------------------
+
+===== FINAL PERCEPTION @ 2026-02-01 15:57:04 =====
+ID          : 1
+Object      : person
+Motion      : stationary
+Confidence  : 0.72
+Color       : unknown
+Description : large unknown person near, stationary for 15.2s
+----------------------------------------
+ID          : 15
+Object      : cell phone
+Motion      : stationary
+Confidence  : 0.28
+Color       : unknown
+Description : large unknown cell phone near, stationary for 6.9s
+----------------------------------------
+ID          : 6
+Object      : unknown
+Motion      : moving
+Confidence  : N/A
+Color       : unknown
+Description : unknown object moving
+----------------------------------------
+ID          : 12
+Object      : unknown
+Motion      : moving
+Confidence  : N/A
+Color       : unknown
+Description : unknown object moving
+----------------------------------------
+
+===== FINAL PERCEPTION @ 2026-02-01 16:23:29 =====
+ID          : 1
+Object      : person
+Motion      : stationary
+Confidence  : 0.9
+Color       : green
+Description : large green person near, stationary for 189.81s
+----------------------------------------
+
+===== FINAL PERCEPTION @ 2026-02-01 17:17:48 =====
+ID          : 1
+Object      : person
+Motion      : stationary
+Confidence  : 0.82
+Color       : blue
+Description : large blue person near, stationary for 61.11s
+----------------------------------------
+
+===== FINAL PERCEPTION @ 2026-02-02 18:54:33 =====
+ID          : 18
+Object      : person
+Motion      : stationary
+Confidence  : 0.79
+Color       : green
+Description : large green person near, stationary for 18.14s
+----------------------------------------
+ID          : 13
+Object      : remote
+Motion      : stationary
+Confidence  : 0.36
+Color       : green
+Description : large green remote mid, stationary for 14.08s
+----------------------------------------
+
+===== FINAL PERCEPTION @ 2026-02-02 18:58:30 =====
+ID          : 1
+Object      : person
+Motion      : stationary
+Confidence  : 0.79
+Color       : green
+Description : large green person near, stationary for 22.82s
+----------------------------------------
+ID          : 15
+Object      : cell phone
+Motion      : moving up
+Confidence  : 0.31
+Color       : green
+Description : large green cell phone mid, moving up for 8.5s
+----------------------------------------
